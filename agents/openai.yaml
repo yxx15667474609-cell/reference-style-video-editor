@@ -1,0 +1,4 @@
+interface:
+  display_name: "参考风格视频剪辑"
+  short_description: "分析参考工程与成片风格，复刻文案节奏、字幕音效并导出质检短视频"
+  default_prompt: "Use $reference-style-video-editor to analyze my reference project or video and edit new footage into a matching final MP4."
